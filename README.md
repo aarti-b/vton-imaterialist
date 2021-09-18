@@ -6,7 +6,7 @@ A python package for Binary Segmentation DataSet ( vton_plus and imaterialist [t
 
 ## Installation with pypi
 ```
-pip3 install < >
+pip3 install <Inprocess >
 ```
 ## Installation from source
 
