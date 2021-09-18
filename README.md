@@ -13,7 +13,7 @@ https://drive.google.com/drive/folders/1cGp0-s5p8n4oNnZr5AM_AaYCVzlJbkCo?usp=sha
 
 ## Installation with pypi
 ```
-pip3 install <Inprocess >
+pip3 install python-vtonimat
 ```
 ## Installation from source
 
