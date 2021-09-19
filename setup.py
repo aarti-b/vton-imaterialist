@@ -6,7 +6,7 @@ except ImportError:
     from distutils.core import setup
 
 NAME = 'python-vtonimat'
-VERSION = '0.1'
+VERSION = '0.12'
 
 # Compile the list of packages available, because distutils doesn't have
 # an easy way to do this.
@@ -45,17 +45,16 @@ setup(name=NAME,
       description='Simple VTON and Imaterialist data parser written in pure Python',
       long_description=long_description,
       long_description_content_type='text/markdown',
-      author='Aarti Balana',
-      install_requires=['numpy', 'opencv-python'],
+      author='Arti.B',
+      install_requires=['numpy>=1.19.5'],
       author_email=' ',
       license='BSD',
-      url=' ',
+      url='https://github.com/aarti-b/vton-imaterialist',
       package_dir={'vtonimat': 'vtonimat'},
       packages=packages,
       package_data={'vtonimat': data_files},
       classifiers=[
-          'Development Status :: 5 - Production/Stable',
-          'Intended Audience :: Developers/Data Scientists',
-          'Operating System :: Linux/Mac',
-          'Programming Language :: Python'],
+          'Intended Audience :: Science/Research',
+          'Operating System :: MacOS',
+          'Programming Language :: Python :: 3.7'],
       )
