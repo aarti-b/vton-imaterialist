@@ -5,10 +5,10 @@ A python package for Binary Segmentation DataSet ( vton_plus and imaterialist [t
 # Download dataset 
 
 `Note - This step can be performed after installing package as well.`
-```
-#Download dataset from following drive and unzip it.
+
+### Download dataset from following drive and unzip it.
 [gdrive](https://drive.google.com/drive/folders/1cGp0-s5p8n4oNnZr5AM_AaYCVzlJbkCo?usp=sharing)
-```
+
 
 # Install package 
 
