@@ -1,12 +1,13 @@
 # vton-imaterialist
 A python package for Binary Segmentation DataSet ( vton_plus and imaterialist [topwear])
 
+[📚 PyPi Project Documentation 📚](https://pypi.org/project/python-vtonimat/#description)
 # Download dataset 
 
 `Note - This step can be performed after installing package as well.`
 ```
 #Download dataset from following drive and unzip it.
-https://drive.google.com/drive/folders/1cGp0-s5p8n4oNnZr5AM_AaYCVzlJbkCo?usp=sharing
+[gdrive](https://drive.google.com/drive/folders/1cGp0-s5p8n4oNnZr5AM_AaYCVzlJbkCo?usp=sharing)
 ```
 
 # Install package 
@@ -75,3 +76,5 @@ There is a python file `convert.py` to convert dataset to ubyte format the datas
 python3 convert.py train 0    #0 is ratio, which means whole data is converted to train. you can add proportions.
 python3 convert.py test 0
 ```
+
+This package is still in progress. If you find any issue please feel free to contact or create a new issue. You are welcome to contribute in this project.
