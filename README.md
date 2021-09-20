@@ -8,6 +8,7 @@ A python package for Binary Segmentation DataSet ( vton_plus and imaterialist [t
 
 ### Download dataset from following drive and unzip it.
 [gdrive](https://drive.google.com/drive/folders/1cGp0-s5p8n4oNnZr5AM_AaYCVzlJbkCo?usp=sharing)
+it has vton, imat will be soon in.
 
 
 # Install package 
