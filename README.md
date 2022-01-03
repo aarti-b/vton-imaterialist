@@ -1,5 +1,6 @@
 # vton-imaterialist
 A python package for Binary Segmentation DataSet ( vton_plus and imaterialist [topwear])
+* [Medium article](https://medium.com/@aartibalana/imaterialist19-analysis-and-python-data-parser-for-binary-segmentation-imaterialist-19-vton-214d071f0397)
 
 [📚 PyPi Project Documentation 📚](https://pypi.org/project/python-vtonimat/#description)
 # Download dataset 
